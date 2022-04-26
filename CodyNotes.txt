@@ -1,0 +1,3 @@
+SERVERSIDE APP: https://github.com/CodyNicholson/SD09-SQL_Activities/tree/main/D6/3-SQL-Music-Tour-API-DONE
+CIENT APP: https://github.com/CodyNicholson/SD07-React-Redux-Activities/tree/main/D07/2-RR-Bootstrap-Replica-DONE
+Draw.IO
